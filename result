@@ -1,0 +1,13 @@
+[  8%] Building CXX object CMakeFiles/tinyidsd.dir/md5.cpp.o
+[ 16%] Building CXX object CMakeFiles/tinyidsd.dir/ids_log.cpp.o
+[ 25%] Building CXX object CMakeFiles/tinyidsd.dir/ids_clinet.cpp.o
+[ 33%] Building CXX object CMakeFiles/tinyidsd.dir/ids_db_adapter.cpp.o
+[ 41%] Building CXX object CMakeFiles/tinyidsd.dir/ids_string_util.cpp.o
+[ 50%] Building CXX object CMakeFiles/tinyidsd.dir/ids_tcpflow.cpp.o
+[ 58%] Building CXX object CMakeFiles/tinyidsd.dir/ids_addr.cpp.o
+[ 66%] Building CXX object CMakeFiles/tinyidsd.dir/ids_epoll.cpp.o
+[ 75%] Building CXX object CMakeFiles/tinyidsd.dir/ids_http.cpp.o
+[ 83%] Building CXX object CMakeFiles/tinyidsd.dir/ids_db.cpp.o
+[ 91%] Building CXX object CMakeFiles/tinyidsd.dir/tinyids.cpp.o
+[100%] Linking CXX executable tinyidsd
+[100%] Built target tinyidsd

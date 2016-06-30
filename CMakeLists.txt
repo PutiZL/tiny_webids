@@ -1,0 +1,7 @@
+
+PROJECT(tinyidsd)
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+AUX_SOURCE_DIRECTORY(. DIR_SRCS)
+ADD_EXECUTABLE(tinyidsd ${DIR_SRCS})
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -g")
+TARGET_LINK_LIBRARIES(tinyidsd log4cplus z mysqlcppconn jsoncpp curl)
