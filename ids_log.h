@@ -1,7 +1,7 @@
 #ifndef _IDS_LOG_H_
 #define _IDS_LOG_H_
 
-
+/* Wrapper for log4cplus */
 #include <log4cplus/consoleappender.h>
 #include <log4cplus/fileappender.h>
 #include <log4cplus/layout.h>
